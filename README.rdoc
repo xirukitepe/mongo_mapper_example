@@ -1,0 +1,4 @@
+Mongodb with MongoMapper gem implementation
+
+
+# A sample application
